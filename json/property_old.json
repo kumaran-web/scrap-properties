@@ -1,0 +1,122 @@
+[
+    {
+        "property_title": "2 bedroom terraced house for sale",
+        "property_content": "A two bedroom MID TERRACE house situated within close proximity to the town centre & rear views over Moot Hill. AN IDEAL FIRST TIME BUYER PROPERTY!",
+        "property_features":
+            [
+                { "bedroom": 2},
+                { "bathroom": 1},
+                { "reception": 1},
+                { "property_type": "Flat"}
+            ],
+        "property_price": 359860,
+        "property_qualifier": "Guide Price",
+        "property_location": "Scarborough Road, Driffield, East Yorkshire",
+        "property_frequency": "pcm",
+        "property_category": "Sale",
+        "property_images":
+            [
+                { "caption": "Kitchen", "path": "property1_1.jpg" },
+                { "caption": "Front Face", "path": "property1_2.jpg" },
+                { "caption": "Living room", "path": "property1_3.jpg" },
+                { "caption": "Bathroom", "path": "property1_4.jpg" },
+                { "caption": "Bedroom1", "path": "property1_5.jpg" },
+                { "caption": "Bedroom2", "path": "property1_6.jpg" },
+                { "caption": "Bedroom3", "path": "property1_7.jpg" }
+            ],
+        "property_brochure":
+            [
+                { "caption": "Brouchure", "path": "brouchure_1.pdf" }
+            ]        
+    },
+    {
+        "property_title": "3 bed flat to rent",
+        "property_content": "Lorem Ipsum is simply dummy text of the printing and Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+        "property_features":
+            [
+                { "bedroom": 3},
+                { "bathroom": 2},
+                { "reception": 0},
+                { "property_type": "Flat"}
+            ],
+        "property_price": 569712,
+        "property_qualifier": "Guide Price",
+        "property_location": "160 Cann Hall Rd, London E11 3NH",
+        "property_frequency": "pcm",
+        "property_category": "Sale",
+        "property_images":
+            [
+                { "caption": "Kitchen", "path": "property1_1.jpg" },
+                { "caption": "Front Face", "path": "property1_2.jpg" },
+                { "caption": "Living room", "path": "property1_3.jpg" },
+                { "caption": "Bathroom", "path": "property1_4.jpg" },
+                { "caption": "Bedroom1", "path": "property1_5.jpg" },
+                { "caption": "Bedroom2", "path": "property1_6.jpg" },
+                { "caption": "Bedroom3", "path": "property1_7.jpg" }
+            ],
+        "property_brochure":
+            [
+                { "caption": "Brouchure", "path": "brouchure_1.pdf" }
+            ]        
+    },
+    {
+        "property_title": "5 bedroom detached house for sale",
+        "property_content": "A SUPERB family home with approx 3,400 sq ft of high specification accommodation together with triple garage, MENAGE, PADDOCKS & STABLES.",
+        "property_features":
+            [
+                { "bedroom": 5},
+                { "bathroom": 3},
+                { "reception": 2},
+                { "property_type": "Flat"}
+            ],
+        "property_price": 7845612,
+        "property_qualifier": "Guide Price",
+        "property_location": "North Townside Road, North Frodingham, East Yorkshire",
+        "property_frequency": "pcm",
+        "property_category": "Sale",
+        "property_images":
+            [
+                { "caption": "Kitchen", "path": "property1_1.jpg" },
+                { "caption": "Front Face", "path": "property1_2.jpg" },
+                { "caption": "Living room", "path": "property1_3.jpg" },
+                { "caption": "Bathroom", "path": "property1_4.jpg" },
+                { "caption": "Bedroom1", "path": "property1_5.jpg" },
+                { "caption": "Bedroom2", "path": "property1_6.jpg" },
+                { "caption": "Bedroom3", "path": "property1_7.jpg" }
+            ],
+        "property_brochure":
+            [
+                { "caption": "Brouchure", "path": "brouchure_1.pdf" }
+            ]        
+    },
+    {
+        "property_title": "Land For Sale",
+        "property_content": "Residential Development Opportunity, Indicative Capacity For 66 New Dwellings. Expressions Of Interest Invited. For Further Information, Please Contact David Atkinson On .",
+        "property_features":
+            [
+                { "bedroom": 1},
+                { "bathroom": 1},
+                { "reception": 0},
+                { "property_type": "Flat"}
+            ],
+        "property_price": 7845612,
+        "property_qualifier": "Guide Price",
+        "property_location": "Development Site, Sproatley Road, Preston, East Yorkshire",
+        "property_frequency": "pcm",
+        "property_category": "Sale",
+        "property_images":
+            [
+                { "caption": "Kitchen", "path": "property1_1.jpg" },
+                { "caption": "Front Face", "path": "property1_2.jpg" },
+                { "caption": "Living room", "path": "property1_3.jpg" },
+                { "caption": "Bathroom", "path": "property1_4.jpg" },
+                { "caption": "Bedroom1", "path": "property1_5.jpg" },
+                { "caption": "Bedroom2", "path": "property1_6.jpg" },
+                { "caption": "Bedroom3", "path": "property1_7.jpg" }
+            ],
+        "property_brochure":
+            [
+                { "caption": "Brouchure", "path": "brouchure_1.pdf" }
+            ]        
+    }
+]

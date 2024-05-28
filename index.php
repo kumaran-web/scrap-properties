@@ -3,7 +3,7 @@
 <head>
 <?php 
 $title = "Property View";
-	include("includes/links.php"); 
+	include("includes/links.php");
 ?>
 </head>
 
